@@ -1,0 +1,11 @@
+C:\git\3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\git\3\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\git\3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\git\3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\git\3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\git\3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\git\3\lab3\lab3\bin\Debug\lab3.exe
+C:\git\3\lab3\lab3\bin\Debug\lab3.pdb
+C:\git\3\lab3\lab3\obj\Debug\lab3.exe
+C:\git\3\lab3\lab3\obj\Debug\lab3.pdb
+C:\git\3\lab3\lab3\obj\Debug\lab3.Form1.resources
